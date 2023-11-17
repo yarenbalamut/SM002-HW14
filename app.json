@@ -2,6 +2,7 @@
   "expo": {
     "name": "13-sedatkurtuldu",
     "slug": "13-sedatkurtuldu",
+    "owner": "sm002",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +26,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c3efcbf9-7929-4c6a-8242-27efdbf0be9e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c3efcbf9-7929-4c6a-8242-27efdbf0be9e"
     }
   }
 }
